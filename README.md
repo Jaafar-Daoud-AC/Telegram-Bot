@@ -98,7 +98,7 @@ pot_telegram/
 ### 2) تحميل المشروع
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pot_telegram.git
+git clone https://github.com/Jaafar-Daoud-AC/pot_telegram.git
 cd pot_telegram
 ```
 
@@ -208,8 +208,8 @@ python bot_telegram.py
 
 **جعفر داؤد**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
+- GitHub: [@Jaafar-Daoud-AC](https://github.com/Jaafar-Daoud-AC)
+  
 <div align="center">
 
 ⭐ إذا أعجبك المشروع، لا تنسَ دعمه بنجمة!
